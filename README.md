@@ -16,7 +16,7 @@ React app: RGB color converter to HEX.
 
 ### Live demo
 
-(https://audrius33.github.io/RGB_generator/)
+https://audrius33.github.io/RGB_generator/
 
 
 
