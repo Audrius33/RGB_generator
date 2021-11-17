@@ -5,9 +5,12 @@ example link: (https://audrius33.github.io/RGB_generator/)
 
 
 
-### `yarn install`
+# Built with
 
-Add dependencies to a package.json file
+- Javascript
+- CSS custom properties
+- [React](https://reactjs.org/) - JS library
+
 
 
 
